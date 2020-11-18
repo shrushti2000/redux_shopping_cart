@@ -2,8 +2,11 @@
 
 A shopping cart implemented using react and redux. It has features like add to cart, remove from cart.Also it has filters like sort by price and size.
 
-![GitHub Logo](/demo.gif)
-![GitHub Logo](/cart.gif)
+![GitHub Logo](/cart_demo.gif)
+__________________________________________________________________
+
+![GitHub Logo](/sort_demo.gif)
+
 
 
 ## Tools and technologies
