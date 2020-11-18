@@ -1,0 +1,28 @@
+.container_cart{
+    width: 40vw;
+    height: 200px;
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.mini_img{
+    width: 180px;
+    height: 180px;
+    margin-right:100px ;
+}
+h1{
+    font-size: 30px;
+    color:  #54192a;;
+}
+.fa-times{
+    color: black;
+    font-size: large;
+    cursor: pointer;
+    margin-left: 100px;
+}
+h4{
+    font-family: 'Cormorant Garamond', serif;
+}

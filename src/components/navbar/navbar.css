@@ -1,0 +1,15 @@
+i{
+    height: 20px;
+    width: 40px;
+    color: white;
+}
+nav{
+    background-color: #54192a;
+    color: aliceblue;
+    
+}
+.navbar-light .navbar-brand {
+    color: white;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+}

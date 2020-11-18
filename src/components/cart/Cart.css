@@ -1,0 +1,23 @@
+.cart_page{
+    display: flex;
+    flex-direction: row;
+    
+}
+.page_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.checkout_box{
+    border: 1px solid grey;
+    height: 50%;
+    width: 50vw;
+    margin: 50px;
+    padding: 20px;
+}
+span{
+    margin-left:100px ;
+}
+

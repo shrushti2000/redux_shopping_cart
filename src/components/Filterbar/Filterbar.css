@@ -1,0 +1,14 @@
+.filterbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 20px;
+    
+}
+
+.filter{
+    margin:0px 20px;
+    font-size: 40px;
+    font-family: 'Cormorant Garamond', serif;
+}
